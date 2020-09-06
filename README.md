@@ -7,6 +7,8 @@ t-weather is a commandline app that
 - calculates the warmest day of the week and 
 - notifies you about the current temperature and humidity of your city.
 
+![](https://github.com/chrischma/t-weather/blob/master/Screenshot-Forecast.png?raw=true)
+
 ## Setup
 Leave the name of your hometown in line 6 of t-weather.py:
 
@@ -18,5 +20,5 @@ As t-weather is using data from the https://openweathermap.org/, make sure to ad
 
 
 ## Usage
-simply run <code> python3 t-weather.py </code>.
+Run <code> python3 t-weather.py </code>. That's it!
 
